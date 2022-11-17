@@ -1,11 +1,10 @@
 
-  # module 9
+  # Cool project
   
-  ## License
-  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+  
  
   ## Description
-  module 9 homework
+  My cool project's description
   
   ## Table of Contents
   -[ Title](#title)
@@ -21,15 +20,15 @@
   ## Github Username
   singharaj-usai
   ## Installation
-  use npm install on bash and then node index.js
+  After cloning the project to your machine and running "npm i", run node index.js in your terminal to get the prompts
   ## Usage
-  readme generator
+  Easy simple readme generator using node.js
   ## License
-  MIT
+  None
   ## Contributing
-  hi
+  singharaj usai
   ## Tests
-  test
+  the test works
   ## Email
-  usai1999@gmail.com
+  djjd22938@gmail.com
   
